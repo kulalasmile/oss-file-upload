@@ -114,7 +114,7 @@
 ## 注意
 
 - 使用springboot 3.0.4版本和knife4j最新版本时，会报错无法启动，可能是依赖冲突原因(查询资料，都说是Guaua版本的原因，我排除knife4j或minio的Guaua依赖都无法解决) 
-- 查询文件url时，只能对公共读权限的bucket生效
+- 查询文件url时，只能对公共读权限的bucket生效.
 
 
 
